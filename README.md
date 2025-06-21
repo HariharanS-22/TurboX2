@@ -18,8 +18,8 @@
 ---
 
 ## 🔧 Hardware Used
-<p>
-  <img src="https://drive.google.com/uc?export=view&id=1pqOx0gAKF7ZjbxHlEJdzCmSw-QjJL4KW" alt="Hardware Setup" width="535" align="centre""/>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1pqOx0gAKF7ZjbxHlEJdzCmSw-QjJL4KW" alt="Hardware Setup" width="535""/>
 </p>
 
 | Component                 | Purpose                          |
