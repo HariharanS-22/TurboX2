@@ -19,7 +19,7 @@
 
 </td>
     <td>
-      <img src="https://drive.google.com/uc?export=view&id=18cSPEtTr1spDRskpe7otpmmJbWAVOX06" alt="Turbo X2" width="300"/>
+      <img src="https://drive.google.com/uc?export=view&id=18cSPEtTr1spDRskpe7otpmmJbWAVOX06" alt="Turbo X2" width="600"/>
     </td>
   </tr>
 </table>
