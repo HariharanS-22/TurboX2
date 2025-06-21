@@ -54,10 +54,6 @@
 ---
 
 ## 🧪 Simulations & Design
-<p> 
-  <img src="https://drive.google.com/uc?export=view&id=18cSPEtTr1spDRskpe7otpmmJbWAVOX06" alt="SolidWorks-3D_Model" width="150" align="right" style="margin-left: 50px;"/>
-</p>
-
 
 - 📐 **Simulink**  
   Inverted pendulum model used to simulate balancing bot dynamics.
