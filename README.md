@@ -7,11 +7,22 @@
 
 ## 📸 Project Overview
 
-- **Modes**: Aerial (Bicopter) and Ground (Balancing Bot)
-- **Control**: ESP32-based real-time PID control with IMU feedback
-- **Switching**: Remote-controlled via PPM input (FlySky i6)
-- **Simulation**: Self-balancing dynamics simulated using Simulink
-- **Design**: Hybrid frame modeled in SolidWorks
+<table>
+  <tr>
+    <td>
+
+- **Modes**: Aerial (Bicopter) and Ground (Balancing Bot)  
+- **Control**: ESP32-based real-time PID control with IMU feedback  
+- **Switching**: Remote-controlled via PPM input (FlySky i6)  
+- **Simulation**: Self-balancing dynamics simulated using Simulink  
+- **Design**: Hybrid frame modeled in SolidWorks  
+
+</td>
+    <td>
+      <img src="https://drive.google.com/uc?export=view&id=18cSPEtTr1spDRskpe7otpmmJbWAVOX06" alt="Turbo X2" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
