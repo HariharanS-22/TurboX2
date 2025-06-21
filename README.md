@@ -14,7 +14,20 @@
 - **Design**: Hybrid frame modeled in SolidWorks  
 
 ---
+## 👥 Team & Contributors
 
+Meet the minds behind **Turbo X2** – a fusion of creativity, engineering, and innovation:
+
+- 🚀 **Hariharan**  
+  [@hariharan](https://github.com/HariharanS-22)  
+- 🛠️ **Pragadeesh** 
+  [@pragadeesh](https://github.com/pragadeesh-raja)  
+- 🧠 **MadhavShankar**  
+  [@madhav-codes](https://github.com/madhav-codes)  
+- 📡 **Jagakishan** 
+  [@jagakishan-dev](https://github.com/jagakishan-dev)
+
+---
 ## 🔧 Hardware Used
 
 <p align="center">
