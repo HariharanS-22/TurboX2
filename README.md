@@ -1,4 +1,4 @@
-# 🚀 Turbo X2 – Hybrid Bicopter with Self-Balancing Bot
+# 🚀 TurboX2 – Hybrid Bicopter with Self-Balancing Bot
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=10umfN6Dcz_4xiwXa5b4UARDC6E-SHyCr" alt="Turbo X2" width="600"/>
 </p>
@@ -16,16 +16,12 @@
 ---
 ## 👥 Team & Contributors
 
-Meet the minds behind **Turbo X2** – a fusion of creativity, engineering, and innovation:
+Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and innovation:
 
-- 🚀 **Hariharan**  
-  [@hariharan](https://github.com/HariharanS-22)  
-- 🛠️ **Pragadeesh** 
-  [@pragadeesh](https://github.com/pragadeesh-raja)  
-- 🧠 **MadhavShankar**  
-  [@madhav-codes](https://github.com/madhav-codes)  
-- 📡 **Jagakishan** 
-  [@jagakishan-dev](https://github.com/jagakishan-dev)
+- 🚀 [**Hariharan**](https://github.com/HariharanS-22) – Systems Architect & Embedded Developer  
+- 🛠️ [**Pragadeesh**](https://github.com/pragadeesh-raja) – Control Systems & PID Tuning Specialist  
+- 🧠 [**MadhavShankar**](https://github.com/madhav-codes) – Mechanical Designer & CAD Modeler  
+- 📡 [**Jagakishan**](https://github.com/jagakishan-dev) – Communications & PPM Integration Expert
 
 ---
 ## 🔧 Hardware Used
