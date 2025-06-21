@@ -17,7 +17,7 @@
 
 ## 🔧 Hardware Used
 
-<img src="https://drive.google.com/uc?export=view&id=1pqOx0gAKF7ZjbxHlEJdzCmSw-QjJL4KW" alt="Hardware Setup" width="500" align="right" style="margin-left: 200px;"/>
+<img src="https://drive.google.com/uc?export=view&id=1pqOx0gAKF7ZjbxHlEJdzCmSw-QjJL4KW" alt="Hardware Setup" width="530" align="right" style="margin-left: 200px;"/>
 
 | Component                 | Purpose                          |
 |--------------------------|----------------------------------|
@@ -51,13 +51,13 @@
 ---
 
 ## 🧪 Simulations & Design
+<img src="https://drive.google.com/uc?export=view&id=18cSPEtTr1spDRskpe7otpmmJbWAVOX06" alt="SolidWorks-3D_Model" width="150" align="right" style="margin-left: 50px;"/>
 
 - 📐 **Simulink**  
   Inverted pendulum model used to simulate balancing bot dynamics.
 
 - 🛠️ **SolidWorks**  
   Custom hybrid chassis designed to hold both flight and ground components efficiently.
-  <img src="https://drive.google.com/uc?export=view&id=18cSPEtTr1spDRskpe7otpmmJbWAVOX06" alt="SolidWorks-3D_Model" width="200"/>
 
 ---
 
