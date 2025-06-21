@@ -18,8 +18,8 @@
 - **Design**: Hybrid frame modeled in SolidWorks  
 
 </td>
-    <td>
-      <img src="https://drive.google.com/uc?export=view&id=18cSPEtTr1spDRskpe7otpmmJbWAVOX06" alt="SolidWorks-3D_Model" width="150"/>
+    <td align = "centre">
+      <img src="https://drive.google.com/uc?export=view&id=18cSPEtTr1spDRskpe7otpmmJbWAVOX06" alt="SolidWorks-3D_Model" width="200"/>
     </td>
   </tr>
 </table>
@@ -27,6 +27,8 @@
 ---
 
 ## 🔧 Hardware Used
+
+<img src="https://drive.google.com/uc?export=view&id=1pqOx0gAKF7ZjbxHlEJdzCmSw-QjJL4KW" alt="Hardware Setup" width="300" align="right" style="margin-left: 20px;"/>
 
 | Component                 | Purpose                          |
 |--------------------------|----------------------------------|
