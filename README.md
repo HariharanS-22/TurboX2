@@ -24,7 +24,7 @@ Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and i
 - 📡 [**Jagakishan**](https://github.com/jagakishan-dev) – Communications & PPM Integration Expert
 
 ---
-## 🔧 Hardware Used
+## 🔧 Hardware
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1pqOx0gAKF7ZjbxHlEJdzCmSw-QjJL4KW" alt="Hardware Setup" width="535"/>
