@@ -33,17 +33,17 @@
 
 ## 🧠 Features
 
-- ✅ **Seamless Mode Switching**  
+-  **Seamless Mode Switching**  
   Toggle between bicopter and balancing bot using Channel 6 (PPM-based).
 
-- ✅ **Dual PID Control Systems**  
+-  **Dual PID Control Systems**  
   - Balancing Bot: Real-time upright stability with MPU6050  
   - Bicopter: Thrust stabilization and yaw control
 
-- ✅ **Serial PID Tuning**  
+-  **Serial PID Tuning**  
   Adjust PID constants in real-time via Serial Monitor without code re-upload.
 
-- ✅ **Simulation + CAD Integration**  
+-  **Simulation + CAD Integration**  
   Simulink for behavior testing, SolidWorks for mechanical design validation.
 
 ---
