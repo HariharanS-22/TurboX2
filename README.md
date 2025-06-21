@@ -5,6 +5,8 @@
 
 **Turbo X2** is a dual-mode robotic system, combining the vertical flight capabilities of a bicopter with the stability and control of a self-balancing bot. This hybrid robot can switch seamlessly between aerial and ground modes using an RC transmitter (Flysky i6) , making it versatile for real-world terrain and tactical operations.
 
+---
+
 ## 📸 Project Overview
 
 - **Modes**: Aerial (Bicopter) and Ground (Balancing Bot)  
@@ -16,8 +18,9 @@
 ---
 
 ## 🔧 Hardware Used
-
-<img src="https://drive.google.com/uc?export=view&id=1pqOx0gAKF7ZjbxHlEJdzCmSw-QjJL4KW" alt="Hardware Setup" width="530" align="right" style="margin-left: 200px;"/>
+<p>
+  <img src="https://drive.google.com/uc?export=view&id=1pqOx0gAKF7ZjbxHlEJdzCmSw-QjJL4KW" alt="Hardware Setup" width="535" align="right" style="margin-left: 200px;"/>
+</p>
 
 | Component                 | Purpose                          |
 |--------------------------|----------------------------------|
@@ -51,7 +54,10 @@
 ---
 
 ## 🧪 Simulations & Design
-<img src="https://drive.google.com/uc?export=view&id=18cSPEtTr1spDRskpe7otpmmJbWAVOX06" alt="SolidWorks-3D_Model" width="150" align="right" style="margin-left: 50px;"/>
+<p> 
+  <img src="https://drive.google.com/uc?export=view&id=18cSPEtTr1spDRskpe7otpmmJbWAVOX06" alt="SolidWorks-3D_Model" width="150" align="right" style="margin-left: 50px;"/>
+</p>
+
 
 - 📐 **Simulink**  
   Inverted pendulum model used to simulate balancing bot dynamics.
@@ -61,11 +67,3 @@
 
 ---
 
-## 🔌 Mode Switching Logic
-
-```cpp
-if (ch[5] > 1500) {
-  modeBicopter = true; // Aerial mode
-} else {
-  modeBicopter = false; // Ground mode
-}
