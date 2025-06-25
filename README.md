@@ -105,4 +105,7 @@ Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and i
   Custom hybrid chassis designed to hold both flight and ground components efficiently.
 
 ---
+## ⚖️ License
+
+This project is open-source under the MIT License. See `LICENSE` for more details.
 
