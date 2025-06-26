@@ -13,7 +13,6 @@
 - **Simulation**: Self-balancing dynamics simulated using Simulink  
 - **Design**: Hybrid frame modeled in SolidWorks  
 
----
 ## 👥 Team & Contributors
 
 Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and innovation:
@@ -23,7 +22,6 @@ Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and i
 - 🧠 [**MadhavShankar**](https://github.com/madhav-codes) – Control Systems & PID Tuning Specialist  
 - 📡 [**Jagakishan**](https://github.com/jagakishan-dev) – Communications & PPM Integration Expert
 
----
 ## 🔧 Hardware
 
 <p align="center">
@@ -77,7 +75,6 @@ Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and i
 
 </div>
 
----
 
 ## 🧠 Features
 
@@ -94,7 +91,6 @@ Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and i
 -  **Simulation + CAD Integration**  
   Simulink for behavior testing, SolidWorks for mechanical design validation.
 
----
 
 ## 🧪 Simulations & Design
 
@@ -104,7 +100,6 @@ Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and i
 - 🛠️ **SolidWorks**  
   Custom hybrid chassis designed to hold both flight and ground components efficiently.
 
----
 ## ⚖️ License
 
 This project is open-source under the MIT License. See `LICENSE` for more details.
