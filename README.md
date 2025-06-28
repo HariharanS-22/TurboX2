@@ -102,5 +102,8 @@ Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and i
 
 ## ⚖️ License
 
-This project is open-source under the MIT License. See [`LICENSE`](./LICENSE) for more details.
+This project is released under a **Custom License**.  
+Viewing is allowed, but **forking and reuse require prior permission**.  
+See [`LICENSE.txt`](./LICENSE.txt) for more details.
+
 
