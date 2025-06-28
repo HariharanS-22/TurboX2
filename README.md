@@ -121,6 +121,6 @@ Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and i
 
 This project is released under a **Custom License**.  See [`LICENSE`](./LICENSE) for more details.
 
-Viewing is allowed, but **forking and reuse require prior permission**.
+Public viewing is allowed, but **forking and reuse require prior permission**.
 
 
