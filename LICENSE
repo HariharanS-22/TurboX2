@@ -1,16 +1,25 @@
 TurboX2 Custom License – v1.0
 
-You are free to:
-- View and study the source code, schematics, and documentation for personal, non-commercial use.
+Copyright (c) 2025
+Hariharan, Pragadeesh, MadhavShankar, Jagakishan
 
-You must not:
-- Fork, copy, clone, distribute, or create derivative works of this repository without explicit written permission from the authors.
-- Use this project or its components for commercial purposes.
+Permission is hereby granted to any individual to:
+- View and study the code, documentation, mechanical design, and system architecture of this repository for personal, educational, and non-commercial purposes only.
+
+You are NOT permitted to:
+- Fork, clone, copy, or redistribute this repository or its contents in any form.
+- Create derivative works based on this project or reuse any portion of the codebase, CAD files, simulation models, or documentation.
+- Use any part of this project in commercial applications or for profit.
+- Upload or mirror this project on public or private platforms without written consent.
 
 Attribution:
-- You must give appropriate credit if referencing or discussing the project.
+- Proper credit must be given when referencing this work in academic or educational contexts.
 
-Violations:
-- Unauthorized use or redistribution may result in takedown requests or legal action.
+Disclaimer:
+- This project is provided "as is" without warranty of any kind. The authors are not responsible for any damage, misuse, or legal consequence resulting from use of this project.
 
-For permissions beyond the scope of this license, contact the project authors via GitHub.
+For permission to reuse or collaborate, please contact:
+- Hariharan: [@HariharanS-22](https://github.com/HariharanS-22)
+- Or open an issue in the GitHub repository
+
+Violations of this license may result in takedown requests or legal action under applicable laws.
