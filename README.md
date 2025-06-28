@@ -1,5 +1,13 @@
 # 🚀 TurboX2 – Hybrid Bicopter with Self-Balancing Bot
 <p align="center">
+  <img src="https://img.shields.io/github/repo-size/HariharanS-22/TurboX2?style=flat-square"/>
+  <img src="https://img.shields.io/github/last-commit/HariharanS-22/TurboX2?style=flat-square"/>
+  <img src="https://img.shields.io/github/issues/HariharanS-22/TurboX2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/License-Custom-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Made%20with-ESP32-blue?style=flat-square&logo=esphome"/>
+</p>
+
+<p align="center">
   <img src="https://drive.google.com/uc?export=view&id=10umfN6Dcz_4xiwXa5b4UARDC6E-SHyCr" alt="Turbo X2" width="600"/>
 </p>
 
@@ -90,6 +98,12 @@ Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and i
 
 -  **Simulation + CAD Integration**  
   Simulink for behavior testing, SolidWorks for mechanical design validation.
+## ⚙️ Circuit Layout
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1T7gHhglWt0NQtGYPnN-itPNp36M5N1lw" alt="Circuit" width="400"/>
+</p>
+
 
 
 ## 🧪 Simulations & Design
@@ -103,7 +117,6 @@ Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and i
 ## ⚖️ License
 
 This project is released under a **Custom License**.  
-Viewing is allowed, but **forking and reuse require prior permission**.  
-See [`LICENSE`](./LICENSE) for more details.
+Viewing is allowed, but **forking and reuse require prior permission**. See [`LICENSE`](./LICENSE) for more details.
 
 
