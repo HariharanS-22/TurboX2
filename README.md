@@ -27,10 +27,10 @@
 
 Meet the minds behind **TurboX2** – a fusion of creativity, engineering, and innovation:
 
-- 🚀 [**Hariharan**](https://github.com/HariharanS-22) – Systems Architect & Embedded Developer  
-- 🛠️ [**Pragadeesh**](https://github.com/pragadeesh-raja) – Mechanical Designer & CAD Modeler    
-- 🧠 [**MadhavShankar**](https://github.com/madhav-codes) – Control Systems & PID Tuning Specialist  
-- 📡 [**Jagakishan**](https://github.com/jagakishan-dev) – Communications & PPM Integration Expert
+- 🚀 [**Hariharan**](https://github.com/HariharanS-22) - Team Lead 
+- 🛠️ [**Pragadeesh**](https://github.com/pragadeesh-raja)    
+- 🧠 [**MadhavShankar**](https://github.com/madhav-codes)  
+- 📡 [**Jagakishan**](https://github.com/jagakishan-dev) 
 
 ## 🔧 Hardware
 
